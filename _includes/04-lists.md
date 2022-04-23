@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# my image task steps
+- quantization
+- lossely compression (zigzag)
+- encode
+- decode
